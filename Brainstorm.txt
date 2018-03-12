@@ -1,0 +1,8 @@
+Sensoren:
+- Ultrasonic Sensor - HC-SR04
+- Vibrating motor coin
+
+Bewegen:
+- Hoe feller de hand gesloten is hoe sneller het autootje gaat
+- Door de hand te draaien zal de auto ook draaien
+- Hand volledig open is stoppen
